@@ -5,21 +5,8 @@
 
 body {
     font-family: 'Fredoka One', cursive;
-    background-color: black;
+    background-color: darkslateblue;
 
-}
-#back{
-    display:inline-block;
-    top: 20px;
-    margin-top: 20px;
-
-}
-#back img{
-    width: 35px;
-    
-}
-#back a{
-    color: white;
 }
 
 #heading {
@@ -115,17 +102,12 @@ footer p {
 }
 
 #break {
-    height: 90px;
+    height: 50px;
 }
 
-#sec {
-    color: #00FF00;
-}
 
-footer img {
-    width: 25px;
-    padding-bottom: 2px;
-}
+
+
 
 @media only screen and (max-width:360px) {
     #heading {
